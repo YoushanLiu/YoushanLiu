@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 #
-![](https://github-readme-stats.vercel.app/api?username=Youshan Liu&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=YoushanLiu&show_icons=true&theme=dark&count_private=true)
